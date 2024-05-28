@@ -1,0 +1,14 @@
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.AssemblyInfoInputs.cache
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.AssemblyInfo.cs
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.csproj.CoreCompileInputs.cache
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\bin\Debug\net6.0\DelegateLab.exe
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\bin\Debug\net6.0\DelegateLab.deps.json
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\bin\Debug\net6.0\DelegateLab.runtimeconfig.json
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\bin\Debug\net6.0\DelegateLab.dll
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\bin\Debug\net6.0\DelegateLab.pdb
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.dll
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\refint\DelegateLab.dll
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.pdb
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\DelegateLab.genruntimeconfig.cache
+Z:\ShwetaProgramming\dotnet\DelegateLab\DelegateLab\obj\Debug\net6.0\ref\DelegateLab.dll
