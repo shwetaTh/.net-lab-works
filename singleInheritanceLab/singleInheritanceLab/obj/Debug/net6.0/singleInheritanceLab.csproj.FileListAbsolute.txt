@@ -1,0 +1,14 @@
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\bin\Debug\net6.0\singleInheritanceLab.exe
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\bin\Debug\net6.0\singleInheritanceLab.deps.json
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\bin\Debug\net6.0\singleInheritanceLab.runtimeconfig.json
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\bin\Debug\net6.0\singleInheritanceLab.dll
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\bin\Debug\net6.0\singleInheritanceLab.pdb
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.AssemblyInfoInputs.cache
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.AssemblyInfo.cs
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.csproj.CoreCompileInputs.cache
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.dll
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\refint\singleInheritanceLab.dll
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.pdb
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\singleInheritanceLab.genruntimeconfig.cache
+Z:\ShwetaProgramming\dotnet\singleInheritanceLab\singleInheritanceLab\obj\Debug\net6.0\ref\singleInheritanceLab.dll
