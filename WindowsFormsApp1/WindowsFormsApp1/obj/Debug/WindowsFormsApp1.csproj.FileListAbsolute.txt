@@ -1,0 +1,12 @@
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+Z:\Programming\dotnet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegisterStudent.resources
