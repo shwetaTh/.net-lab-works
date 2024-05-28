@@ -1,0 +1,14 @@
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\bin\Debug\net6.0\StudentStructLab.exe
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\bin\Debug\net6.0\StudentStructLab.deps.json
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\bin\Debug\net6.0\StudentStructLab.runtimeconfig.json
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\bin\Debug\net6.0\StudentStructLab.dll
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\bin\Debug\net6.0\StudentStructLab.pdb
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.AssemblyInfoInputs.cache
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.AssemblyInfo.cs
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.csproj.CoreCompileInputs.cache
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.dll
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\refint\StudentStructLab.dll
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.pdb
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\StudentStructLab.genruntimeconfig.cache
+Z:\ShwetaProgramming\dotnet\StudentStructLab\StudentStructLab\obj\Debug\net6.0\ref\StudentStructLab.dll
