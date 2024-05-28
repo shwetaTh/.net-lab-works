@@ -1,0 +1,14 @@
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\bin\Debug\net6.0\LambdaLab.exe
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\bin\Debug\net6.0\LambdaLab.deps.json
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\bin\Debug\net6.0\LambdaLab.runtimeconfig.json
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\bin\Debug\net6.0\LambdaLab.dll
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\bin\Debug\net6.0\LambdaLab.pdb
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.AssemblyInfoInputs.cache
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.AssemblyInfo.cs
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.csproj.CoreCompileInputs.cache
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.dll
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\refint\LambdaLab.dll
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.pdb
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\LambdaLab.genruntimeconfig.cache
+Z:\ShwetaProgramming\dotnet\LambdaLab\LambdaLab\obj\Debug\net6.0\ref\LambdaLab.dll
