@@ -1,0 +1,14 @@
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.exe
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.deps.json
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.runtimeconfig.json
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.dll
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.pdb
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfoInputs.cache
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfo.cs
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.csproj.CoreCompileInputs.cache
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.dll
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\refint\LINQLab.dll
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.pdb
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.genruntimeconfig.cache
+Z:\ShwetaProgramming\dotnet\LINQLab\LINQLab\obj\Debug\net6.0\ref\LINQLab.dll
